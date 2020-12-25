@@ -52,6 +52,7 @@
 	float: left;
 	width: 25%
 
+
 }
 .amsn-section-5-hedding{
 	background: #1096ce;
@@ -115,4 +116,25 @@
 .amsn-section-5-sub-sec5 p{
 	color: #2a0cde;
 	font-size: 20px;
+}
+
+
+/*responsive*/
+@media(max-width: 767px){
+	.amsn-section-4-sub-sec2-desc,
+	.amsn-section-4-sub-sec2-img{
+		width: 100%;
+		float: initial!important;
+	}
+	.amsn-section-4-sub-sec2-img{
+		text-align: center;
+		margin-bottom: 10px;
+		margin-top: 20px;
+	}
+	.amsn-section-5-sub-sec3 h3{
+		font-size: 30px;
+	}
+	.amsn-section-5-title{
+		font-size: 22px;
+	}
 }
