@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'Vollkorn-Bold';
+  src: url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff2') format('woff2'),
+    url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vollkorn-Semibold';
+  src: url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff2') format('woff2'),
+    url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Vollkorn-SemiboldItalic';
+  src: url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff2') format('woff2'),
+    url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PTSerifBold';
+  src: url('assets/fonts/PTSerifBold/PTSerifBold.woff2') format('woff2'),
+    url('assets/fonts/PTSerifBold/PTSerifBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'OpenSansLight';
+  src: url('assets/fonts/OpenSansLight/OpenSansLight.woff2') format('woff2'),
+    url('assets/fonts/OpenSansLight/OpenSansLight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LatoRegular';
+  src: url('assets/fonts/LatoRegular/LatoRegular.woff2') format('woff2'),
+    url('assets/fonts/LatoRegular/LatoRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LatoLightItalic';
+  src: url('assets/fonts/LatoLightItalic/LatoLightItalic.woff2') format('woff2'),
+    url('assets/fonts/LatoLightItalic/LatoLightItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LatoLight';
+  src: url('assets/fonts/LatoLight/LatoLight.woff2') format('woff2'),
+    url('assets/fonts/LatoLight/LatoLight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'LatoBold';
+  src: url('assets/fonts/LatoBold/LatoBold.woff2') format('woff2'),
+    url('assets/fonts/LatoBold/LatoBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LatoSemibold';
+  src: url('assets/fonts/LatoSemibold/LatoSemibold.woff2') format('woff2'),
+    url('assets/fonts/LatoSemibold/LatoSemibold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'LatoSemiBoldItalic';
+  src: url('assets/fonts/LatoSemiBoldItalic/LatoSemiBoldItalic.woff2') format('woff2'),
+    url('assets/fonts/LatoSemiBoldItalic/LatoSemiBoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
