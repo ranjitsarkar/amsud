@@ -137,6 +137,11 @@ img {
   bottom: 0;
   z-index: 10;
 }
+.inline-bg{
+  background-size: cover!important;
+  background-position: center center!important;
+  background-repeat: no-repeat!important;
+}
 .container {
   max-width: 1140px;
   width: 100%;
