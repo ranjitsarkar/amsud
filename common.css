@@ -262,12 +262,14 @@ h4 {
     h4 {
       font-size: 30px;
     }
+    br,
     p br{
         display: none;
     }
     p{
       font-size: 22px;
     }
+
 }
 
 
