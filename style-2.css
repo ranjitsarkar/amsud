@@ -1,0 +1,25 @@
+.ams-s-sec-1{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.ams-s-sec-1-ctlr h2{
+	text-align: center;
+	color: #1096ce;
+	font-family: 'BarlowCondensed-SemiBold';
+	margin-bottom: 20px;
+}
+.ams-s-sec-1-ctlr h3{
+	font-size: 60px;
+	text-align: center;
+	color: #000000;
+	font-family: 'BarlowCondensed-SemiBold';
+	margin-bottom: 20px;
+}
+
+.ans-s-sec-1-wave-img{
+	text-align: center;
+}
+
+.ams-s-sec-2-ctlr p strong{
+	font-family: 'LatoBold';
+}

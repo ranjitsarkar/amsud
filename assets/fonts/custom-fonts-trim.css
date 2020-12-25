@@ -1,35 +1,25 @@
 @font-face {
-  font-family: 'Vollkorn-Bold';
-  src: url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff2') format('woff2'),
-    url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff') format('woff');
+  font-family: 'Barlow-Bold';
+  src: url('assets/fonts/Barlow-Bold/Barlow-Bold.woff2') format('woff2'),
+    url('assets/fonts/Barlow-Bold/Barlow-Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Vollkorn-Semibold';
-  src: url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff2') format('woff2'),
-    url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-
-@font-face {
-  font-family: 'Vollkorn-SemiboldItalic';
-  src: url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff2') format('woff2'),
-    url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff') format('woff');
+  font-family: 'Barlow-ExtraBold';
+  src: url('assets/fonts/Barlow-ExtraBold/Barlow-ExtraBold.woff2') format('woff2'),
+    url('assets/fonts/Barlow-ExtraBold/Barlow-ExtraBold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'PTSerifBold';
-  src: url('assets/fonts/PTSerifBold/PTSerifBold.woff2') format('woff2'),
-    url('assets/fonts/PTSerifBold/PTSerifBold.woff') format('woff');
+  font-family: 'BarlowCondensed-Bold';
+  src: url('assets/fonts/BarlowCondensed-Bold/BarlowCondensed-Bold.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Bold/BarlowCondensed-Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -37,9 +27,9 @@
 
 
 @font-face {
-  font-family: 'OpenSansLight';
-  src: url('assets/fonts/OpenSansLight/OpenSansLight.woff2') format('woff2'),
-    url('assets/fonts/OpenSansLight/OpenSansLight.woff') format('woff');
+  font-family: 'BarlowCondensed-SemiBold';
+  src: url('assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -49,15 +39,6 @@
   font-family: 'LatoRegular';
   src: url('assets/fonts/LatoRegular/LatoRegular.woff2') format('woff2'),
     url('assets/fonts/LatoRegular/LatoRegular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'LatoLightItalic';
-  src: url('assets/fonts/LatoLightItalic/LatoLightItalic.woff2') format('woff2'),
-    url('assets/fonts/LatoLightItalic/LatoLightItalic.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -91,14 +72,5 @@
   font-display: swap;
 }
 
-
-@font-face {
-  font-family: 'LatoSemiBoldItalic';
-  src: url('assets/fonts/LatoSemiBoldItalic/LatoSemiBoldItalic.woff2') format('woff2'),
-    url('assets/fonts/LatoSemiBoldItalic/LatoSemiBoldItalic.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
 
 
