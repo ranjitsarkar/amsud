@@ -1,5 +1,4 @@
 .amss-sec-1{
-	padding-top: 40px;
 	padding-bottom: 40px;
 }
 .amss-sec-1-ctlr h2{
@@ -7,6 +6,7 @@
 	color: #1096ce;
 	font-family: 'BarlowCondensed-SemiBold';
 	margin-bottom: 20px;
+	line-height: 1;
 }
 .amss-sec-1-ctlr h3{
 	font-size: 60px;
@@ -14,6 +14,7 @@
 	color: #000000;
 	font-family: 'BarlowCondensed-SemiBold';
 	margin-bottom: 20px;
+	line-height: 1;
 }
 
 .anss-sec-1-wave-img{
@@ -23,7 +24,7 @@
 .amss-sec-2-ctlr{
 	padding-right: 10px;
 }
-.amss-sec-2-ctlr p strong{
+.amss-text-module p strong{
 	font-family: 'LatoBold';
 }
 
@@ -47,8 +48,8 @@
 }
 .amss-sec-3-grd-item{
 	border: 9px solid #fff;
-	-webkit-box-shadow: 4px 4px 15px 4px rgba(201,210,214,0.75); 
-	box-shadow: 4px 4px 15px 4px rgba(201,210,214,0.75);
+	-webkit-box-shadow: 5px 4px 9px 3px rgba(201,210,215,0.75); 
+	box-shadow: 5px 4px 9px 3px rgba(201,210,215,0.75);
 }
 
 
@@ -73,8 +74,6 @@
 
 .amss-sec-3-grd-item-des{
 	padding: 18px 25px 10px 18px;
-	display: flex;
-	align-items: center;
 	min-height: 160px;
 }
 .amss-sec-3-grd-item-des h5{
@@ -97,22 +96,26 @@
 }
 
 .amss-sec-5-grd-item{
-	padding: 45px 32px 10px 65px;
+	padding: 45px 32px 10px 20px;
 	position: relative;
-	-webkit-box-shadow: 3px 3px 12px 5px #d4dfeb; 
-	box-shadow: 3px 3px 12px 5px #d4dfeb;
+	-webkit-box-shadow: 2px 2px 9px 5px rgba(223,232,241,0.75); 
+	box-shadow: 2px 2px 9px 5px rgba(223,232,241,0.75);
 	min-height: 205px;
 	display: flex;
 	align-items: center;
-}
-.amss-sec-5-grd-item i{
-	position: absolute;
-	top: 45px;
-	left: 20px;
+	border-bottom: 4px solid #0f8ac5;
+	border-radius: 2px;
 }
 .amss-sec-5-grd-item h5{
 	font-size: 24px;
 	margin-bottom: 10px;
+	padding-left: 45px;
+	position: relative;
+}
+.amss-sec-5-grd-item h5 i{
+	position: absolute;
+	top: 0;
+	left: 0;
 }
 .amss-sec-5-grd-item h5 strong{
 	font-family: 'LatoBold';
@@ -122,8 +125,10 @@
 .amss-sec-5-btm-grd-item{
 	padding: 30px 30px 10px 65px;
 	position: relative;
-	-webkit-box-shadow: 3px 3px 12px 5px #d4dfeb; 
-	box-shadow: 3px 3px 12px 5px #d4dfeb;
+	-webkit-box-shadow: 2px 2px 9px 5px rgba(223,232,241,0.75); 
+	box-shadow: 2px 2px 9px 5px rgba(223,232,241,0.75);
+	border-bottom: 4px solid #0f8ac5;
+	border-radius: 2px;
 }
 .amss-sec-5-btm-grd-item i{
 	position: absolute;
@@ -143,7 +148,7 @@
 	padding-top: 30px;
 }
 
-.amss-sec-6-ctlr p strong{
+.amss-sec-6-text-module p strong{
 	font-family: 'LatoBold';
 }
 
