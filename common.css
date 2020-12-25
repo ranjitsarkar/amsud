@@ -1,35 +1,16 @@
 @font-face {
-  font-family: 'Vollkorn-Bold';
-  src: url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff2') format('woff2'),
-    url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff') format('woff');
+  font-family: 'Barlow-Bold';
+  src: url('assets/fonts/Barlow-Bold/Barlow-Bold.woff2') format('woff2'),
+    url('assets/fonts/Barlow-Bold/Barlow-Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Vollkorn-Semibold';
-  src: url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff2') format('woff2'),
-    url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-
-@font-face {
-  font-family: 'Vollkorn-SemiboldItalic';
-  src: url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff2') format('woff2'),
-    url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'PTSerifBold';
-  src: url('assets/fonts/PTSerifBold/PTSerifBold.woff2') format('woff2'),
-    url('assets/fonts/PTSerifBold/PTSerifBold.woff') format('woff');
+  font-family: 'BarlowCondensed-Bold';
+  src: url('assets/fonts/BarlowCondensed-Bold/BarlowCondensed-Bold.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Bold/BarlowCondensed-Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -37,9 +18,9 @@
 
 
 @font-face {
-  font-family: 'OpenSansLight';
-  src: url('assets/fonts/OpenSansLight/OpenSansLight.woff2') format('woff2'),
-    url('assets/fonts/OpenSansLight/OpenSansLight.woff') format('woff');
+  font-family: 'BarlowCondensed-SemiBold';
+  src: url('assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-SemiBold/BarlowCondensed-SemiBold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -49,15 +30,6 @@
   font-family: 'LatoRegular';
   src: url('assets/fonts/LatoRegular/LatoRegular.woff2') format('woff2'),
     url('assets/fonts/LatoRegular/LatoRegular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'LatoLightItalic';
-  src: url('assets/fonts/LatoLightItalic/LatoLightItalic.woff2') format('woff2'),
-    url('assets/fonts/LatoLightItalic/LatoLightItalic.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -92,18 +64,6 @@
 }
 
 
-@font-face {
-  font-family: 'LatoSemiBoldItalic';
-  src: url('assets/fonts/LatoSemiBoldItalic/LatoSemiBoldItalic.woff2') format('woff2'),
-    url('assets/fonts/LatoSemiBoldItalic/LatoSemiBoldItalic.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-
-
-
 
 
 *,*:focus,.btn,.btn:focus {
@@ -124,9 +84,9 @@ a,a:hover,a:focus,button:hover,button:focus {
 body {
   background-color: #fff;
   color: #000;
-  font-size: 25px;
+  font-size: 24px;
   line-height: 1.2;
-    font-family: 'LatoLight';
+  font-family: 'LatoRegular';
   background: url(assets/images/body-bg.jpg);
 }
 img {
@@ -147,7 +107,7 @@ img {
   z-index: 10;
 }
 .container {
-  max-width: 1205px;
+  max-width: 1200px;
   width: 100%;
 }
 .hide-md {
@@ -194,16 +154,16 @@ strong { font-weight:normal }
 }
 
 h1 {
-  font-size: 45px;
+  font-size: 70px;
 }
 h2 {
-  font-size: 40px;
+  font-size: 60px;
 }
 h3 {
-  font-size: 26px;
+  font-size: 42px;
 }
 h4 {
-  font-size: 20px;
+  font-size: 36px;
 }
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
@@ -219,16 +179,16 @@ h4 {
       display: block!important;
     }
     h1{
-      font-size: 40px;
+      font-size: 65px;
     }
     h2{
-      font-size: 35px;
+      font-size: 55px;
     }
     h3 {
-      font-size: 26px;
+      font-size:40px;
     }
     h4 {
-      font-size: 20px;
+      font-size: 34px;
     }
     p br{
       display: none;
@@ -242,16 +202,16 @@ h4 {
         display: block!important;
     }
     h1{
-      font-size: 35px;
+      font-size: 60px;
     }
     h2{
-      font-size: 30px;
+      font-size: 50px;
     }
     h3 {
-      font-size: 26px;
+      font-size: 36px;
     }
     h4 {
-      font-size: 20px;
+      font-size: 30px;
     }
     p br{
         display: none;
@@ -273,16 +233,16 @@ h4 {
        margin-bottom: 20px;
     }
     h1{
-      font-size: 32px;
+      font-size: 55px;
     }
     h2{
-      font-size: 28px;
+      font-size: 45px;
     }
     h3 {
-      font-size: 25px;
+      font-size: 32px;
     }
     h4 {
-      font-size: 20px;
+      font-size: 26px;
     }
 
 }
