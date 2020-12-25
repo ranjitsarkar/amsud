@@ -1,5 +1,5 @@
 .amsn-section-1{
-	background-color: #1989b5;
+	/*background-color: #1989b5;*/
 }
 .amsn-section-1-cntlr{
 	padding-top: 28px;
@@ -106,7 +106,7 @@
 	display: inline-block;
 }
 .amsn-section-5-sub-sec5{
-	max-width: 865px;
+	max-width: 780px;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
