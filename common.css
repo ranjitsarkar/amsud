@@ -1,3 +1,14 @@
+
+@font-face {
+  font-family: 'Barlow-SemiBold';
+  src: url('assets/fonts/Barlow-SemiBold/Barlow-SemiBold.woff2') format('woff2'),
+    url('assets/fonts/Barlow-SemiBold/Barlow-SemiBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 @font-face {
   font-family: 'Barlow-Bold';
   src: url('assets/fonts/Barlow-Bold/Barlow-Bold.woff2') format('woff2'),
@@ -11,6 +22,17 @@
   font-family: 'Barlow-ExtraBold';
   src: url('assets/fonts/Barlow-ExtraBold/Barlow-ExtraBold.woff2') format('woff2'),
     url('assets/fonts/Barlow-ExtraBold/Barlow-ExtraBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+@font-face {
+  font-family: 'BarlowCondensed-Regular';
+  src: url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -150,7 +172,7 @@ img {
 }
 p { margin: 0; margin-bottom: 30px; }
 a { word-wrap: break-word } 
-strong { font-weight:normal }
+strong { font-family: 'LatoBold'; }
 .plr-30 {
   padding-left: 30px!important;
   padding-right: 30px!important
