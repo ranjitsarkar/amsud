@@ -1,0 +1,60 @@
+.ams-s-sec-1{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.ams-s-sec-1-ctlr h2{
+	text-align: center;
+	color: #1096ce;
+	font-family: 'BarlowCondensed-SemiBold';
+	margin-bottom: 20px;
+}
+.ams-s-sec-1-ctlr h3{
+	font-size: 60px;
+	text-align: center;
+	color: #000000;
+	font-family: 'BarlowCondensed-SemiBold';
+	margin-bottom: 20px;
+}
+
+.ans-s-sec-1-wave-img{
+	text-align: center;
+}
+
+.ams-s-sec-2-ctlr p strong{
+	font-family: 'LatoBold';
+}
+
+.ams-s-sec-3{
+	padding-bottom: 30px;
+}
+
+.ams-s-sec-3-grds-item ul{
+	margin-left: -13px;
+	margin-right: -13px;
+}
+.ams-s-sec-3-grds-item ul li{
+	float: left;
+	width: 50%;
+	padding-left: 13px;
+	padding-right: 13px;
+	padding-bottom: 20px;
+}
+.ams-s-sec-3-grds-item ul li:nth-child(2n+1){
+	clear: left;
+}
+.ams-s-sec-3-grd-item{
+	border: 9px solid #fff;
+	-webkit-box-shadow: 4px 4px 15px 4px rgba(201,210,214,0.75); 
+	box-shadow: 4px 4px 15px 4px rgba(201,210,214,0.75);
+}
+
+.ams-s-sec-3-grd-item-des{
+	padding: 18px 18px 15px 18px;
+}
+.ams-s-sec-3-grd-item-des h5{
+	font-size: 24px;
+}
+.ams-s-sec-3-grd-item-des h5 i{
+	margin-right: 5px;
+}
+
