@@ -439,7 +439,6 @@ box-shadow: 0px 0px 10px -4px rgba(20,103,132,1);
 .fl-ftr-nav ul li a {
     display: inline-block;
     vertical-align: baseline;
-    font-family: 'Montserrat-Medium';
 }
 .fl-ftr-nav ul li:not(:last-child):after {
     content: "";
@@ -461,7 +460,7 @@ box-shadow: 0px 0px 10px -4px rgba(20,103,132,1);
     padding-top: 10px;
     font-size: 14px;
     line-height: 16px;
-    color: #c2adc2;
+    color: #cfd4e4;
 }
 .fl-copyright p{
     margin: 0;
@@ -470,10 +469,9 @@ box-shadow: 0px 0px 10px -4px rgba(20,103,132,1);
     font-size: 16px;
     line-height: 20px;
     text-align: left;
-    font-family: 'Montserrat-Light';
-    color: #c2adc2;
+    color: #99a9af;
 }
 .fl-ftr-des {
-    padding-right: 50px;
+    padding-right: 35px;
     padding-left: 15px;
 }
