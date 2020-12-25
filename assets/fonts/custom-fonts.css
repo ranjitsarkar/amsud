@@ -8,6 +8,15 @@
 }
 
 @font-face {
+  font-family: 'Barlow-ExtraBold';
+  src: url('assets/fonts/Barlow-ExtraBold/Barlow-ExtraBold.woff2') format('woff2'),
+    url('assets/fonts/Barlow-ExtraBold/Barlow-ExtraBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'BarlowCondensed-Bold';
   src: url('assets/fonts/BarlowCondensed-Bold/BarlowCondensed-Bold.woff2') format('woff2'),
     url('assets/fonts/BarlowCondensed-Bold/BarlowCondensed-Bold.woff') format('woff');
