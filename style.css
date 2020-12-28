@@ -1242,6 +1242,9 @@ box-shadow: 0px 0px 10px -4px rgba(20,103,132,1);
   .fl-pkg-price strong{
     font-size: 95px;
   }
+  .order1 .fl-pkg-grd-col-fea-img span{
+    max-width: 80px;
+  }
 }
 
 @media(max-width: 479px){
@@ -1278,6 +1281,25 @@ box-shadow: 0px 0px 10px -4px rgba(20,103,132,1);
     font-size: 18px;
     padding-left: 30px;
     padding-right: 30px;
+  }
+  .order1 .fl-pkg-price strong {
+    font-size: 75px;
+  }
+  .fl-pkg-price:before {
+    left: 2px;
+    top: -13px;
+    font-size: 45px;
+  }
+  .fl-pkg-price sup {
+    right: 13px;
+    font-size: 46px;
+    top: -7px;
+  }
+  .fl-pkg-price sub {
+    position: absolute;
+    right: 18px;
+    font-size: 35px;
+    bottom: 11px;
   }
 }
 
